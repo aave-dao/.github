@@ -157,7 +157,7 @@
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
   </tr>
-  <tr><td colspan="4"><h3>Resources</h3></td></tr>
+  <tr><td colspan="4"><h3>Misc resources & documentation</h3></td></tr>
   <tr>
     <td><a href="https://github.com/aave-dao/aave-brand-kit">aave-brand-kit</a></td>
     <td>Official Aave brand assets and visual identity guidelines.</td>
