@@ -54,6 +54,12 @@
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/aave-dao/adi-dashboard">adi-dashboard</a></td>
+    <td>Monitoring dashboard for a.DI cross-chain envelope delivery, bridge adapters, and linked governance proposals.</td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/aave-dao/aave-proposals-v3">aave-proposals-v3</a></td>
     <td>Monorepo for building, testing, and submitting Aave governance proposals.</td>
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
@@ -86,6 +92,12 @@
     <td><a href="https://github.com/bgd-labs">BGD Labs</a>, <a href="https://github.com/TokenLogic-com-au">TokenLogic</a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/aave-dao/aave-rewards-configuration">aave-rewards-configuration</a></td>
+    <td>CLI toolkit for generating, testing, and simulating Umbrella rewards and Aave liquidity mining configurations.</td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/aave-dao/aave-address-book">aave-address-book</a></td>
     <td>Registry of deployed Aave ecosystem contract addresses.</td>
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
@@ -98,14 +110,32 @@
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/aave-dao/permissions-search">permissions-search</a></td>
+    <td>Web app for searching and visualizing permissions, roles, and Safe wallets across the Aave ecosystem.</td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/aave-dao/aave-price-feeds">aave-price-feeds</a></td>
     <td>Custom oracle adapters that add price caps and safety bounds on top of Chainlink feeds.</td>
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/aave-dao/aave-proof-of-reserve">aave-proof-of-reserve</a></td>
+    <td>Smart contracts integrating Chainlink Proof of Reserve to verify asset backing and freeze undercollateralized reserves.</td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/aave-dao/aave-v3-risk-stewards">aave-v3-risk-stewards</a></td>
     <td>Constrained steward contracts for bounded Aave V3.x risk parameter updates.</td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/aave-dao/aave-risk-agents">aave-risk-agents</a></td>
+    <td>Contracts for validating and applying risk parameter updates from the Risk Oracle into Aave protocol.</td>
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
   </tr>
@@ -121,7 +151,13 @@
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
   </tr>
-  <tr><td colspan="4"><h3>Resources</h3></td></tr>
+  <tr>
+    <td><a href="https://github.com/aave-dao/bgdash">bgdash</a></td>
+    <td>RPC-based explorer for Aave reserve, E-Mode, and Umbrella data across pools and chains.</td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+  </tr>
+  <tr><td colspan="4"><h3>Misc resources & documentation</h3></td></tr>
   <tr>
     <td><a href="https://github.com/aave-dao/aave-brand-kit">aave-brand-kit</a></td>
     <td>Official Aave brand assets and visual identity guidelines.</td>
