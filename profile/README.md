@@ -60,6 +60,18 @@
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/aave-dao/aave-governance-cache">aave-governance-cache</a></td>
+    <td>Cache layer that indexes on-chain governance data into static JSON for the governance frontend.</td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/aave-dao/aave-governance-interface">aave-governance-interface</a></td>
+    <td>Frontend for browsing proposals, casting votes, and interacting with Aave governance.</td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/aave-dao/aave-proposals-v3">aave-proposals-v3</a></td>
     <td>Monorepo for building, testing, and submitting Aave governance proposals.</td>
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
@@ -167,6 +179,12 @@
   <tr>
     <td><a href="https://github.com/aave-dao/bored-guides">bored-guides</a></td>
     <td>Operational guides for repeatable Aave ecosystem workflows.</td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+    <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/aave-dao/aave-robots-list">aave-robots-list</a></td>
+    <td>List of all automation robots used by the Aave protocol.</td>
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
     <td><a href="https://github.com/bgd-labs">BGD Labs</a></td>
   </tr>
